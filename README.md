@@ -10,3 +10,8 @@
 
 ## Login
 - `user1@mail.com` / `12345678`
+
+## Developer
+- `vishal jagani`
+- `vish2patel08@gmail.com`
+- `9099546953`
